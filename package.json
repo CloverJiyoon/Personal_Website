@@ -1,0 +1,13 @@
+{
+  "name": "mywebsite2",
+  "version": "1.0.0",
+  "description": "My Personal Website",
+  
+  "scripts": {
+    "start": "http-server"
+  },
+
+  "dependencies": {
+    "http-server": "*"
+  }
+}
