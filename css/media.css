@@ -17,9 +17,11 @@
    }
     .content-table td {
         display: block;
+        word-wrap: break-word;
+
    }
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 600px) {
     header {
         padding: 0;
    }
